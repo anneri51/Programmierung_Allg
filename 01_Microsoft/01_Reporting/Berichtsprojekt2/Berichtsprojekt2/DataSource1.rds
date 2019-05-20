@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>ODBC</Extension>
+    <ConnectString>DSN=comp</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d94de577-64c3-47bf-8b47-145a14d80a16</DataSourceID>
+</RptDataSource>
